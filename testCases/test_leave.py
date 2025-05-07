@@ -1,5 +1,7 @@
 import pytest
+
 from selenium import webdriver
+
 from PageObjects.LoginPage import Login
 from PageObjects.DashboardPage import DashboardPage
 from PageObjects.LeavePage import LeavePage
