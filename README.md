@@ -23,12 +23,19 @@ It uses PyTest and follows the Page Object Model (POM) design pattern.
 ## 📁 Folder Structure
 
 orangehrm_automation/
+
 ├── PageObjects/ # Page classes (LoginPage, DashboardPage, LeavePage)
+
 ├── testCases/ # Pytest test cases
+
 ├── Reports/ # Generated HTML test report
+
 ├── Screenshots/  # Screenshots
+
 ├── RunTests.bat # One-click test runner
+
 ├── requirements.txt # All dependencies
+
 ├── README.md # Project overview
 
 
